@@ -1,2 +1,2 @@
-# winmetrics.app
+# winmatrics.app
 Capacitor app for winmetrics.org
